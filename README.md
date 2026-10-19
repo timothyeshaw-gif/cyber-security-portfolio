@@ -146,21 +146,5 @@ This portfolio demonstrates my ability to investigate security events, document 
 I’m committed to continuous learning and developing into a strong SOC, GRC, or Security Consultant professional.
 
 ---
-
-# 🗂 Browser Metadata (formatted safely)
-
-```markdown
-## User's Edge browser tabs metadata
-
-The tab with `IsCurrent=true` is the user's currently active/viewing tab,  
-while tabs with `IsCurrent=false` are other open tabs in the background.
-
-```json
-edge_all_open_tabs = [
-    {
-        "pageTitle": "New tab",
-        "pageUrl": "",
-        "tabId": 75983548,
-        "isCurrent": true
     }
 ]
