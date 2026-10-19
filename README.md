@@ -146,5 +146,4 @@ This portfolio demonstrates my ability to investigate security events, document 
 I’m committed to continuous learning and developing into a strong SOC, GRC, or Security Consultant professional.
 
 ---
-    }
-]
+
