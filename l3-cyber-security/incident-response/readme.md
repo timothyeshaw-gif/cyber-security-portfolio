@@ -18,7 +18,7 @@ The plans have been developed to demonstrate understanding of incident response 
 | Ransomware Response Plan | Response to ransomware incidents |
 | DoS Response Plan | Response to denial-of-service attacks |
 | Malware Response Plan | Response to malware infections |
-| PHP Vulnerability Response Plan | Response to critical PHP vulnerabilities (CVE-2026-109618 and CVE-2026-109619) |
+| [Critical PHP Vulnerabilities Incident Response Plan](../incident-response/critical-php-vulnerabilities.md) | Response to critical PHP vulnerabilities (CVE-2026-109618 and CVE-2026-109619) |
 
 ## Skills Demonstrated
 
@@ -33,3 +33,5 @@ The plans have been developed to demonstrate understanding of incident response 
 - ## Related Practical Exercises
 
 - [SOC Level 1 Alert Triage](../tryhackme-writeups/soc/soc-level-1-alert-triage.md)
+
+
