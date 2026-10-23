@@ -29,3 +29,7 @@ The plans have been developed to demonstrate understanding of incident response 
 - Business Continuity
 - Cyber Resilience
 - PICERL Framework
+
+- ## Related Practical Exercises
+
+- [SOC Level 1 Alert Triage](../tryhackme-writeups/soc/soc-level-1-alert-triage.md)
