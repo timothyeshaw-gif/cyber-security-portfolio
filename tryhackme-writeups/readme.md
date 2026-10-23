@@ -4,7 +4,7 @@ This section contains practical exercises and room walkthroughs completed as par
 
 ## SOC
 
-- SOC Level 1 Alert Triage
+- [SOC Level 1 Alert Triage](soc/soc-level-1-alert-triage.md)
 - SOC Fundamentals
 
 ## Defensive Security
