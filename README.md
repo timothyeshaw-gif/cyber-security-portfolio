@@ -1,149 +1,50 @@
-# 👋 About Me
-I’m a cyber security learner developing practical skills across **Blue Team operations**, **SOC analysis**, **cloud security**, and **governance, risk & compliance (GRC)**.  
-My background in structured documentation, evidence handling, and stakeholder communication gives me a strong foundation for both technical investigation and security advisory work.
+# About Me
 
-I’m building a portfolio that demonstrates real defensive capability through hands‑on labs, incident reports, risk assessments, and cloud security projects.
+Hi, I'm Tim.
 
----
+I am currently developing my cyber security skills through self-study, practical labs, real-world case studies, and a Level 3 Cyber Security qualification. My background is in contract and commercial management, which has given me strong experience in risk management, governance, compliance, stakeholder communication, and evidence-based decision making.
 
-# 🎯 Career Focus
-I’m actively developing toward roles such as:
+I have a particular interest in:
 
-- SOC Analyst (Tier 1 → Tier 2)
-- Blue Team / Defensive Security Analyst
-- GRC Analyst / Security Governance Officer
-- Security Consultant (Technical or GRC‑focused)
-- Cloud Security Analyst (Azure / AWS)
+- Security Operations Centre (SOC) activities
+- Incident response and cyber resilience
+- Security governance, risk, and compliance (GRC)
+- Cloud security fundamentals
+- Security monitoring and threat detection
 
-This hybrid path reflects both my technical development and my strong governance/documentation strengths.
+This portfolio documents my cyber security learning journey and contains a mixture of coursework, research projects, incident response plans, case studies, legislation reviews, and practical exercises completed through platforms such as TryHackMe.
 
----
+Rather than focusing solely on technical skills, I am particularly interested in understanding how organisations manage cyber security risk, respond to incidents, maintain compliance, and build resilience against emerging threats.
 
-# 🛠 Skills & Tools
+## Current Learning
 
-## Blue Team & SOC Skills
-- Log analysis & event correlation  
-- Threat detection fundamentals  
-- Incident triage & reporting  
-- Phishing investigation  
-- Basic malware analysis  
-- Network security fundamentals  
-- Understanding attacker behaviour  
+- Level 3 Cyber Security Qualification (In Progress)
+- TryHackMe Security Labs
+- Incident Response Planning
+- Security Governance and Compliance
+- Risk Management and Cyber Resilience
+- Security Monitoring and Threat Analysis
 
-## Governance, Risk & Compliance (GRC)
-- Risk assessment  
-- Policy review & documentation  
-- Evidence handling  
-- Security controls mapping  
-- Compliance fundamentals (ISO 27001, NIST CSF)
+## Areas Covered in This Portfolio
 
-## Tools & Technologies
-- **SIEM:** Microsoft Sentinel (labs), Splunk (free), Wazuh  
-- **Cloud:** Azure, AWS  
-- **Analysis:** Sysmon, Event Viewer, Wireshark  
-- **Languages:** KQL (beginner), PowerShell (beginner)  
-- **Platforms:** TryHackMe, HackTheBox  
+- Incident Response Plans
+- Cyber Security Case Studies
+- Security Legislation and Regulation
+- Risk Assessments
+- TryHackMe Write-Ups
+- Security Governance Research
+- Security Monitoring and Threat Analysis
 
----
+## Career Goals
 
-# 📁 Portfolio Projects
-Each project includes documentation, screenshots, analysis steps, and lessons learned.
+My aim is to transition into a cyber security role where I can combine my existing governance, risk, and commercial experience with practical cyber security skills. I am particularly interested in opportunities within:
 
-## 🔹 Home SOC Lab — Attack Detection & Incident Report
-Simulated attacks detected using Wazuh/Splunk.
+- SOC Operations
+- GRC (Governance, Risk and Compliance)
+- Cyber Security Analysis
+- Security Consultancy
+- Cyber Resilience and Risk Management
 
-Includes:
-- Nmap scan detection  
-- Brute‑force login attempts  
-- Suspicious PowerShell execution  
-- Full incident report with remediation  
+## Portfolio Statement
 
-## 🔹 TryHackMe Investigations
-Write‑ups demonstrating:
-- Defensive thinking  
-- Evidence collection  
-- Step‑by‑step analysis  
-- How attacks could be detected in a SOC  
-
-## 🔹 HackTheBox Walkthroughs
-Focused on:
-- Enumeration  
-- Exploitation  
-- Defensive reflection (“How would a SOC detect this?”)
-
-## 🔹 Windows Log Analysis Case Study
-Investigation of:
-- Failed logins  
-- Privilege escalation attempts  
-- Lateral movement indicators  
-- Sysmon event correlation  
-
-## 🔹 Phishing Email Investigation
-Analysis of:
-- Email headers  
-- Malicious URLs  
-- Attachment behaviour  
-- Indicators of compromise  
-- Recommended response actions  
-
-## 🔹 GRC Case Studies
-Examples of:
-- Risk assessments  
-- Policy reviews  
-- Control mapping  
-- Governance documentation  
-
----
-
-# 🎓 Certifications
-- Level 3 Cyber Security Practices  
-- ISC2 CC (Certified in Cybersecurity)  
-- Microsoft SC‑900 — Security, Compliance & Identity Fundamentals  
-- Azure Fundamentals (AZ‑900)  
-- AWS Cloud Practitioner (CLF‑C01)  
-- Google Cybersecurity Certificate  
-- CompTIA Security+ (in progress)  
-
----
-
-# 📈 Learning & Development
-I’m actively building capability in:
-
-- SIEM operations  
-- KQL for threat hunting  
-- Cloud security monitoring  
-- Incident response frameworks  
-- GRC methodologies  
-- Detection engineering fundamentals  
-
----
-
-# 🚀 Goals
-
-## Short‑Term (0–12 months)
-- Complete Security+  
-- Build more SOC investigations  
-- Add GRC case studies  
-- Gain hands‑on Sentinel experience  
-- Secure an entry‑level SOC, GRC, or hybrid cyber role  
-
-## Long‑Term (2–5 years)
-- Progress to SOC Tier 2  
-- Develop into Security Consultant (technical or GRC)  
-- Earn SC‑200 / CySA+ / ISO 27001 certifications  
-- Move into Cloud Security or Governance roles  
-
----
-
-# 📬 Contact
-**Email:** timothyeshaw@btinternet.com  
-**LinkedIn:** https://linkedin.com/in/tim-shaw-3b70251a3  
-
----
-
-# 🧱 Final Notes
-This portfolio demonstrates my ability to investigate security events, document incidents clearly, analyse logs, understand attacker behaviour, and apply governance principles.  
-I’m committed to continuous learning and developing into a strong SOC, GRC, or Security Consultant professional.
-
----
-
+This portfolio is a working record of my learning and development. It will continue to evolve as I complete additional training, practical exercises, and cyber security projects.
