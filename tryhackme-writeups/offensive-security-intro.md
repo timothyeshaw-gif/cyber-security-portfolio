@@ -18,7 +18,7 @@ This room provided a practical introduction to offensive security by demonstrati
 
 A key lesson from this room was understanding the mindset of offensive security professionals.
 
-Offensive security focuses on identifying weaknesses before malicious actors can exploit them. By approaching systems from an attacker's perspective, organisations can improve their defences and reduce risk. 【1-4ddedf】【3-c8de29】
+Offensive security focuses on identifying weaknesses before malicious actors can exploit them. By approaching systems from an attacker's perspective, organisations can improve their defences and reduce risk.
 
 ### Reconnaissance and Enumeration
 
